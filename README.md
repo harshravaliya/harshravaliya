@@ -14,7 +14,7 @@
 ### 📡 ABOUT_ME // (Information)
 
 - 🎓 **Identity** | 16-year-old Student & Tech Learner
-- 🛡️ **Interests** | Cybersecurity Basics & Web Development
+- 🛡️ **Interests** | Cybersecurity & Web Development
 - 🧠 **Learning** | Python Programming & Linux Commands
 - 🎸 **Hobbies** | Playing Guitar & Video Games
 
