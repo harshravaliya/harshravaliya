@@ -25,18 +25,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,linux,html,css,tailwind,js,github,vscode&theme=dark" />
 </p>
-
----
-
-### 📊 ACTIVITY_LOG // (Real-time Stats)
-
-<p align="center">
-  <img width="49%" src="哈哈哈.jpeg" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshravaliya&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=bef264&text_color=ffffff" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshravaliya&color=bef264&style=flat-square&label=VISITOR_COUNT" />
-</p>
