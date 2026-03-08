@@ -31,7 +31,7 @@
 ### 📊 ACTIVITY_LOG // (Real-time Stats)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshravaliya&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=bef264&text_color=ffffff&include_all_commits=false" />
+  <img width="49%" src="哈哈哈.jpeg" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshravaliya&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=bef264&text_color=ffffff" />
 </p>
 
