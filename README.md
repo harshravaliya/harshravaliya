@@ -26,5 +26,19 @@
   <img src="https://skillicons.dev/icons?i=py,linux,html,css,tailwind,js,github,vscode&theme=dark" />
 </p>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshravaliya&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshravaliya&layout=compact&theme=dark)
+---
+### 📊 SYSTEM_STATS // (Activity)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshravaliya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshravaliya&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🛠️ SECURITY_TOOLS // (Exploration)
+`Nmap` • `Wireshark` • `Metasploit` • `Burp Suite` • `Aircrack-ng`
+
+---
+
+</div> 
