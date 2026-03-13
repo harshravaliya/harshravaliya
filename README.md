@@ -25,3 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,linux,html,css,tailwind,js,github,vscode&theme=dark" />
 </p>
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshravaliya&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshravaliya&layout=compact&theme=dark)
