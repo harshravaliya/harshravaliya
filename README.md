@@ -23,7 +23,7 @@
 ### 💻 TECH_STACK // (What I Use)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,linux,html,css,tailwind,js,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,linux,html,css,vercel,js,github,vscode&theme=dark" />
 </p>
 
 ---
