@@ -1,7 +1,7 @@
 # <p align="center">🛡️ SECURE_CORE // HARSH RAVALIYA</p>
 
 <p align="center">
-  <img src="e4ff1d45-933e-4295-8c76-8df794b598ef.gif" width="100%" alt="Header">
+  <img src="mainthumbnail.gif" width="100%" alt="Header">
 </p>
 
 <p align="center">
