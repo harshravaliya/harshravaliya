@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-harshsec.xyz-BEF264?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=000" />
 </a>
 &nbsp;
+
 <a href="https://instagram.com/root_harsh">
   <img src="https://img.shields.io/badge/@root__harsh-BEF264?style=for-the-badge&logo=instagram&logoColor=000&labelColor=000" />
 </a>
 &nbsp;
+
 <a href="https://github.com/harshravaliya">
   <img src="https://img.shields.io/badge/GitHub-harshravaliya-BEF264?style=for-the-badge&logo=github&logoColor=000&labelColor=000" />
 </a>
